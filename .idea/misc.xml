@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/drawable/ic_follow.xml" value="0.1715" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1715" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/drawable/ic_prevent.xml" value="0.133" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/activity_login.xml" value="0.3470394736842105" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/activity_main.xml" value="0.2677083333333333" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/fragment_buy_vip.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/fragment_code_vip.xml" value="0.2546875" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/fragment_explore.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/fragment_first.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/fragment_follow.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/fragment_list_care.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/fragment_list_hidden.xml" value="0.2546875" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/fragment_list_prevent.xml" value="0.2546875" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/fragment_personal.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/fragment_radio.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/fragment_save_cost.xml" value="0.2546875" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/fragment_second.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/fragment_third.xml" value="0.2546875" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/fragment_zing_chart.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/layout/nav_left_heade_layout.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/menu/nav_bot_menu.xml" value="0.12239583333333333" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/menu/nav_left_menu.xml" value="0.12239583333333333" />
+        <entry key="..\:/LEARN_CODE/Android/OrderFood/app/src/main/res/menu/tabar.xml" value="0.26875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

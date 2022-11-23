@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/personal" android:title="Personal">
+        <menu>
+            <item android:id="@+id/list_care" android:icon="@drawable/ic_personal" android:title="List care"/>
+            <item android:id="@+id/list_prevent" android:icon="@drawable/ic_prevent" android:title="List prevent"/>
+            <item android:id="@+id/list_hidden" android:icon="@drawable/ic_hidden" android:title="List hidden"/>
+        </menu>
+    </item>
+    <item android:id="@+id/service" android:title="Service">
+        <menu>
+            <item android:id="@+id/buy_vip" android:icon="@drawable/ic_vip" android:title="Buy VIP"/>
+            <item android:id="@+id/save_cost" android:icon="@drawable/ic_3g" android:title="Save 3G/4G network"/>
+            <item android:id="@+id/code_vip" android:icon="@drawable/ic_code" android:title="Type Code VIP"/>
+        </menu>
+    </item>
+    <item android:id="@+id/logout" android:icon="@drawable/ic_logout" android:title="Log out"/>
+</menu>
